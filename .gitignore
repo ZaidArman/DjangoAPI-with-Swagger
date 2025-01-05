@@ -1,1 +1,9 @@
+# virtual enviroment
 venv
+
+# database
+db.sqlite3
+
+# migrations
+migrations
+__pycache__/
